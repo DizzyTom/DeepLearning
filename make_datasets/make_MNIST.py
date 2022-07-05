@@ -1,4 +1,3 @@
-from sqlalchemy import desc
 from torchvision.datasets import MNIST
 from torchvision import transforms
 import cv2
